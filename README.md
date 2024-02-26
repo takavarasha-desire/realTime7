@@ -10,7 +10,7 @@ faces and classifying them uing the trained model.
 <img width="465" alt="Anger" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/9c4a79a2-8c90-4f2a-bd6a-979f24732957">
 <img width="461" alt="Joy" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/254ec261-eddf-4f96-b614-d6c5807dfbec">
 <img width="461" alt="Joy2" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/fd209e09-4bec-496a-a961-5ab4f83b6159">
-![Uploading Joy2.png…]()
+<img width="461" alt="Surprise" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/61c8ebf4-16e0-4006-8b1a-7ddcd56e8d4e">
 
 
 ## Running the App
