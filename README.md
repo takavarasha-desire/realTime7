@@ -7,6 +7,10 @@ into seven distinct categories: anger, disgust, fear, joy, neutral, sadness, and
 sophisticated capabilities of Convolutional Neural Networks (CNN) by capturing the video frames of the human
 faces and classifying them uing the trained model.
 <img width="476" alt="Neutral" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/48292d27-d112-4d99-9fe1-97c9da284cae">
+<img width="465" alt="Anger" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/9c4a79a2-8c90-4f2a-bd6a-979f24732957">
+<img width="461" alt="Joy" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/254ec261-eddf-4f96-b614-d6c5807dfbec">
+<img width="461" alt="Joy2" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/fd209e09-4bec-496a-a961-5ab4f83b6159">
+![Uploading Joy2.png…]()
 
 
 ## Running the App
