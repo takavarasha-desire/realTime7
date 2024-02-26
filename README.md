@@ -6,6 +6,8 @@ interaction with the ad. The application's core functionality is to classify the
 into seven distinct categories: anger, disgust, fear, joy, neutral, sadness, and surprise, employing the 
 sophisticated capabilities of Convolutional Neural Networks (CNN) by capturing the video frames of the human
 faces and classifying them uing the trained model.
+<img width="476" alt="Neutral" src="https://github.com/takavarasha-desire/realTime7/assets/94230493/48292d27-d112-4d99-9fe1-97c9da284cae">
+
 
 ## Running the App
 To compile from the source: 
