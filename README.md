@@ -22,4 +22,35 @@ To compile from the source:
 After downloading Anaconda Python.
 
   * Clone the repository: https://github.com/takavarasha-desire/realTime7
-  
+
+```
+git clone https://github.com/takavarasha-desire/realTime7
+cd realTime7
+```
+  * Make your virtualenv
+```
+virtualenv env
+```
+  * Activate the virtualenv
+On Windows
+```
+env/scripts/activate
+```
+On MacOS and Linux
+```
+source env/Scripts/activate
+```
+Install cv2
+```
+pip install opencv-python
+```
+
+Install keras
+```
+pip3 install keras
+```
+
+Run the app
+```
+python application.py .\haarcascade_frontalface_default.xml
+```
